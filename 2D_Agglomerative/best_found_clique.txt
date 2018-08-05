@@ -1,0 +1,12 @@
+#p edge 145 9721
+#c best found clique: 
+#o 105245460
+#c size 19
+#c solveTime 216
+#c searchSteps 0 * 4611686018427387904 + 93
+#c stepSpeed(/ms) 0.583431
+#c seed 7
+#c cutoff(ms) 1200
+#c v_num 145
+#c e_num 9721
+42 118 75 128 126 66 98 114 74 142 139 119 125 71 145 87 100 63 18 
