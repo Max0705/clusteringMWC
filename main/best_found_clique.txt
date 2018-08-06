@@ -1,0 +1,12 @@
+#p edge 30 418
+#c best found clique: 
+#o 72414196
+#c size 15
+#c solveTime 84
+#c searchSteps 0 * 4611686018427387904 + 244
+#c stepSpeed(/ms) 6.60611
+#c seed 7
+#c cutoff(ms) 1200
+#c v_num 30
+#c e_num 418
+21 25 17 16 24 27 29 19 20 28 30 26 18 22 23 

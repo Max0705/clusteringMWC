@@ -2,9 +2,9 @@
 #c best found clique: 
 #o 112224307
 #c size 19
-#c solveTime 451
+#c solveTime 388
 #c searchSteps 0 * 4611686018427387904 + 231
-#c stepSpeed(/ms) 0.609013
+#c stepSpeed(/ms) 0.62383
 #c seed 7
 #c cutoff(ms) 1200
 #c v_num 140
