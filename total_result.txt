@@ -1,7 +1,11 @@
 实验编号		基本聚类方法				聚类次数		类别数						最终结果类别数		结果sc
+
+(coincide_rate=0.05 beta=0.1 alpha=0)
 1			kmeans					10			10 step=1					19					0.5997048735671666
 2			kmeans					10			15 step=0					16					0.38192094225808587
 3			agglomerative			10			10 step=1					19					0.5965220452551492
 4			kmeans+agglomerative	5+5			12 step=1 + 12 step=1		16					0.6158620531666138
 5			kmeans+agglomerative	5+5			10 step=2 + 10 step=2 		19					0.6000739431318721
-6
+
+(coincide_rate=0.2 beta=0.6 alpha=0.1)
+6           kmeans+agglomerative	5+5			12 step=1 + 12 step=1		16                  0.6116176439848754
