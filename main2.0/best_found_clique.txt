@@ -1,0 +1,12 @@
+#p edge 40 568
+#c best found clique: 
+#o 3512098
+#c size 6
+#c solveTime 458
+#c searchSteps 0 * 4611686018427387904 + 882
+#c stepSpeed(/ms) 2.08768
+#c seed 7
+#c cutoff(ms) 1200
+#c v_num 40
+#c e_num 568
+39 8 37 35 19 29 
